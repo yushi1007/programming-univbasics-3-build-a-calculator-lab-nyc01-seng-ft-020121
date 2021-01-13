@@ -24,5 +24,5 @@ return mod
 end
 
 def square_root(num)
-square_root = sqrt
+square_root = math()
 end
