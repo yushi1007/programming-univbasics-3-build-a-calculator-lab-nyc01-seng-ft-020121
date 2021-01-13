@@ -24,6 +24,6 @@ return mod
 end
 
 def square_root(num)
-square_root = Math.sqrt(num)
-return suqre_root
+square = Math.sqrt(num)
+return suqre
 end
